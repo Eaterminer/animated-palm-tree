@@ -1,4 +1,5 @@
 {
   "version": "1",
-  "bootstrapperVersion": "1"
+  "mcVersion": "1.19.3",
+  "modLoader": "clientX"
 }
